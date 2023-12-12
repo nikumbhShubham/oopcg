@@ -1,0 +1,3 @@
+Hello, this is some information written to the file.
+This is another line in the file.
+And one more line for demonstration.
